@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">homepagefix</string>
+    <!-- Toolbar Title -->
+    <string name="toolbar_title">LIFETHY</string>
+
+    <!-- Exercise List Title -->
+    <string name="daftar_latihan">Daftar Latihan</string>
+
+    <!-- Bottom Navbar Labels -->
+    <string name="btn_string_schedule">Schedule</string>
+    <string name="btn_string_home">Home</string>
+    <string name="btn_string_cal">Calories</string>
+
+</resources>
